@@ -1,0 +1,17 @@
+C:\Users\eidan\Documents\Xolit.API.Reservation\Xolit.API.Reservation.Persistence\bin\Debug\net8.0\Xolit.API.Reservation.Persistence.deps.json
+C:\Users\eidan\Documents\Xolit.API.Reservation\Xolit.API.Reservation.Persistence\bin\Debug\net8.0\Xolit.API.Reservation.Persistence.dll
+C:\Users\eidan\Documents\Xolit.API.Reservation\Xolit.API.Reservation.Persistence\bin\Debug\net8.0\Xolit.API.Reservation.Persistence.pdb
+C:\Users\eidan\Documents\Xolit.API.Reservation\Xolit.API.Reservation.Persistence\bin\Debug\net8.0\Xolit.API.Reservation.Application.dll
+C:\Users\eidan\Documents\Xolit.API.Reservation\Xolit.API.Reservation.Persistence\bin\Debug\net8.0\Xolit.API.Reservation.Domain.dll
+C:\Users\eidan\Documents\Xolit.API.Reservation\Xolit.API.Reservation.Persistence\bin\Debug\net8.0\Xolit.API.Reservation.Application.pdb
+C:\Users\eidan\Documents\Xolit.API.Reservation\Xolit.API.Reservation.Persistence\bin\Debug\net8.0\Xolit.API.Reservation.Domain.pdb
+C:\Users\eidan\Documents\Xolit.API.Reservation\Xolit.API.Reservation.Persistence\obj\Debug\net8.0\Xolit.API.Reservation.Persistence.csproj.AssemblyReference.cache
+C:\Users\eidan\Documents\Xolit.API.Reservation\Xolit.API.Reservation.Persistence\obj\Debug\net8.0\Xolit.API.Reservation.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eidan\Documents\Xolit.API.Reservation\Xolit.API.Reservation.Persistence\obj\Debug\net8.0\Xolit.API.Reservation.Persistence.AssemblyInfoInputs.cache
+C:\Users\eidan\Documents\Xolit.API.Reservation\Xolit.API.Reservation.Persistence\obj\Debug\net8.0\Xolit.API.Reservation.Persistence.AssemblyInfo.cs
+C:\Users\eidan\Documents\Xolit.API.Reservation\Xolit.API.Reservation.Persistence\obj\Debug\net8.0\Xolit.API.Reservation.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\eidan\Documents\Xolit.API.Reservation\Xolit.API.Reservation.Persistence\obj\Debug\net8.0\Xolit.AP.04675185.Up2Date
+C:\Users\eidan\Documents\Xolit.API.Reservation\Xolit.API.Reservation.Persistence\obj\Debug\net8.0\Xolit.API.Reservation.Persistence.dll
+C:\Users\eidan\Documents\Xolit.API.Reservation\Xolit.API.Reservation.Persistence\obj\Debug\net8.0\refint\Xolit.API.Reservation.Persistence.dll
+C:\Users\eidan\Documents\Xolit.API.Reservation\Xolit.API.Reservation.Persistence\obj\Debug\net8.0\Xolit.API.Reservation.Persistence.pdb
+C:\Users\eidan\Documents\Xolit.API.Reservation\Xolit.API.Reservation.Persistence\obj\Debug\net8.0\ref\Xolit.API.Reservation.Persistence.dll

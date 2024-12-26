@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "oVg1YWUL240acdCvX1P+XA+8F4Qd7i+wt+ozpnB5+qE=",
+  "Source": "Xolit.API.Reservation",
+  "BasePath": "_content/Xolit.API.Reservation",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

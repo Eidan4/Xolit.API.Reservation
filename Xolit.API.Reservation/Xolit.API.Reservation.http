@@ -1,0 +1,6 @@
+@Xolit.API.Reservation_HostAddress = http://localhost:5208
+
+GET {{Xolit.API.Reservation_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

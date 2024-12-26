@@ -1,0 +1,15 @@
+C:\Users\eidan\Documents\Xolit.API.Reservation\Xolit.API.Reservation.Application\bin\Debug\net8.0\Xolit.API.Reservation.Application.deps.json
+C:\Users\eidan\Documents\Xolit.API.Reservation\Xolit.API.Reservation.Application\bin\Debug\net8.0\Xolit.API.Reservation.Application.dll
+C:\Users\eidan\Documents\Xolit.API.Reservation\Xolit.API.Reservation.Application\bin\Debug\net8.0\Xolit.API.Reservation.Application.pdb
+C:\Users\eidan\Documents\Xolit.API.Reservation\Xolit.API.Reservation.Application\bin\Debug\net8.0\Xolit.API.Reservation.Domain.dll
+C:\Users\eidan\Documents\Xolit.API.Reservation\Xolit.API.Reservation.Application\bin\Debug\net8.0\Xolit.API.Reservation.Domain.pdb
+C:\Users\eidan\Documents\Xolit.API.Reservation\Xolit.API.Reservation.Application\obj\Debug\net8.0\Xolit.API.Reservation.Application.csproj.AssemblyReference.cache
+C:\Users\eidan\Documents\Xolit.API.Reservation\Xolit.API.Reservation.Application\obj\Debug\net8.0\Xolit.API.Reservation.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eidan\Documents\Xolit.API.Reservation\Xolit.API.Reservation.Application\obj\Debug\net8.0\Xolit.API.Reservation.Application.AssemblyInfoInputs.cache
+C:\Users\eidan\Documents\Xolit.API.Reservation\Xolit.API.Reservation.Application\obj\Debug\net8.0\Xolit.API.Reservation.Application.AssemblyInfo.cs
+C:\Users\eidan\Documents\Xolit.API.Reservation\Xolit.API.Reservation.Application\obj\Debug\net8.0\Xolit.API.Reservation.Application.csproj.CoreCompileInputs.cache
+C:\Users\eidan\Documents\Xolit.API.Reservation\Xolit.API.Reservation.Application\obj\Debug\net8.0\Xolit.AP.AB80BB62.Up2Date
+C:\Users\eidan\Documents\Xolit.API.Reservation\Xolit.API.Reservation.Application\obj\Debug\net8.0\Xolit.API.Reservation.Application.dll
+C:\Users\eidan\Documents\Xolit.API.Reservation\Xolit.API.Reservation.Application\obj\Debug\net8.0\refint\Xolit.API.Reservation.Application.dll
+C:\Users\eidan\Documents\Xolit.API.Reservation\Xolit.API.Reservation.Application\obj\Debug\net8.0\Xolit.API.Reservation.Application.pdb
+C:\Users\eidan\Documents\Xolit.API.Reservation\Xolit.API.Reservation.Application\obj\Debug\net8.0\ref\Xolit.API.Reservation.Application.dll

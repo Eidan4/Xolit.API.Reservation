@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AspNetCore.HealthChecks.MySql" Version="9.0.0" />
+    <PackageReference Include="AspNetCore.HealthChecks.UI" Version="9.0.0" />
+    <PackageReference Include="AspNetCore.HealthChecks.UI.Client" Version="8.0.1" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.6.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Xolit.API.Reservation.Application\Xolit.API.Reservation.Application.csproj" />
+    <ProjectReference Include="..\Xolit.API.Reservation.Domain\Xolit.API.Reservation.Domain.csproj" />
+    <ProjectReference Include="..\Xolit.API.Reservation.Persistence\Xolit.API.Reservation.Persistence.csproj" />
+  </ItemGroup>
+
+</Project>

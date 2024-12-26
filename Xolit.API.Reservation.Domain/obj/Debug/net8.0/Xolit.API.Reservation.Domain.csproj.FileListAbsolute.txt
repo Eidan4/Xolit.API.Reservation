@@ -1,0 +1,11 @@
+C:\Users\eidan\Documents\Xolit.API.Reservation\Xolit.API.Reservation.Domain\bin\Debug\net8.0\Xolit.API.Reservation.Domain.deps.json
+C:\Users\eidan\Documents\Xolit.API.Reservation\Xolit.API.Reservation.Domain\bin\Debug\net8.0\Xolit.API.Reservation.Domain.dll
+C:\Users\eidan\Documents\Xolit.API.Reservation\Xolit.API.Reservation.Domain\bin\Debug\net8.0\Xolit.API.Reservation.Domain.pdb
+C:\Users\eidan\Documents\Xolit.API.Reservation\Xolit.API.Reservation.Domain\obj\Debug\net8.0\Xolit.API.Reservation.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eidan\Documents\Xolit.API.Reservation\Xolit.API.Reservation.Domain\obj\Debug\net8.0\Xolit.API.Reservation.Domain.AssemblyInfoInputs.cache
+C:\Users\eidan\Documents\Xolit.API.Reservation\Xolit.API.Reservation.Domain\obj\Debug\net8.0\Xolit.API.Reservation.Domain.AssemblyInfo.cs
+C:\Users\eidan\Documents\Xolit.API.Reservation\Xolit.API.Reservation.Domain\obj\Debug\net8.0\Xolit.API.Reservation.Domain.csproj.CoreCompileInputs.cache
+C:\Users\eidan\Documents\Xolit.API.Reservation\Xolit.API.Reservation.Domain\obj\Debug\net8.0\Xolit.API.Reservation.Domain.dll
+C:\Users\eidan\Documents\Xolit.API.Reservation\Xolit.API.Reservation.Domain\obj\Debug\net8.0\refint\Xolit.API.Reservation.Domain.dll
+C:\Users\eidan\Documents\Xolit.API.Reservation\Xolit.API.Reservation.Domain\obj\Debug\net8.0\Xolit.API.Reservation.Domain.pdb
+C:\Users\eidan\Documents\Xolit.API.Reservation\Xolit.API.Reservation.Domain\obj\Debug\net8.0\ref\Xolit.API.Reservation.Domain.dll
